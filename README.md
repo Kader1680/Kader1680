@@ -25,7 +25,7 @@
 <!-- CodeForce -->
 
 
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforce.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="30" width="40" /></a>
 </p>
 
 
@@ -37,17 +37,17 @@
 
 <!-- deve.to -->
 
-<a href="https://dev.to/clever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dev.to.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
+<a href="https://dev.to/clever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="clever" height="30" width="40" /></a>
 </p>
 
 <!-- youtube -->
 
-<a href="https://www.youtube.com/@Bloomaster1792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Bloomaster1792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bloomaster" height="30" width="40" /></a>
 </p>
 
 <!-- leetcode -->
 
-<a href="https://leetcode.com/u/ouldhenniabaghdad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ouldhenniabaghdad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="kader1680" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
