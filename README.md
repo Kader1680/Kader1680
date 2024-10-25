@@ -19,10 +19,35 @@
 <p align="left">
 <a href="https://twitter.com/kader_1680" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kader_1680" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdelkader-ould-hennia/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelkader-ould-hennia/" height="30" width="40" /></a>
-<a href="https://web.facebook.com/baghdad.ouldhennia.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
 
 
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
+<!-- CodeForce -->
+
+
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforce.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
+</p>
+
+
+<!-- Hackerrank -->
+
+
+<a href="https://www.hackerrank.com/profile/ouldhenniabaghd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
+</p>
+
+<!-- deve.to -->
+
+<a href="https://dev.to/clever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dev.to.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
+</p>
+
+<!-- youtube -->
+
+<a href="https://www.youtube.com/@Bloomaster1792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
+</p>
+
+<!-- leetcode -->
+
+<a href="https://leetcode.com/u/ouldhenniabaghdad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
