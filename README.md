@@ -17,6 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+
+
 <a href="https://twitter.com/kader_1680" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kader_1680" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdelkader-ould-hennia/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelkader-ould-hennia/" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
@@ -28,8 +31,7 @@
 
 
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="30" width="40" /></a>
-</p>
-
+ 
 
 <!-- Hackerrank -->
 
