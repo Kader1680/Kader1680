@@ -32,8 +32,7 @@
   <a href="https://www.youtube.com/@Bloomaster1792" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/ouldhenniabaghdad/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/ouldhenniabaghdad/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/ouldhenniabaghdad/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp" alt="LeetCode" height="30" width="40" /></a>
-</p>
+    </p>
 
 
 
