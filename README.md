@@ -76,8 +76,7 @@
         <br>
         <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
         <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-        <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-        <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
+   
       </p>
     </td>
     <td>
@@ -85,15 +84,14 @@
       <p align="left">
         <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
         <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-        <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+        <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="nestjs logo"  />
         <br>
         <br>
         <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
         <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-        <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
         <br>
         <br>
-        <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+        <img src="https://skillicons.dev/icons?i=php" height="40" alt="go logo"  />
    </p>
    </td>
    <td>
@@ -112,7 +110,7 @@
       </p>
    </td>
      <td>
-      <h4 align="left">DevOps</h4>
+      <h4 align="left">Other</h4>
       <p align="left">
         <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
         <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
