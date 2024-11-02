@@ -134,21 +134,7 @@
 
 <table>
 <tr>
-<td>
- <h4 align="left">Mobile</h4>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-        <img width="12" />
-        <picture >
-        <source media="(prefers-color-scheme: dark)" height="40" srcset="https://img.shields.io/badge/EXPO-fff.svg?style=for-the-badge&logo=EXPO&labelColor=fff&logoColor=000">
-         <img alt="Build with EAS" src="https://img.shields.io/badge/Build-000.svg?style=for-the-badge&logo=EXPO&labelColor=000&logoColor=FFF">
-        </picture>
-        <br>
-        <br>
-        <img src="https://img.shields.io/badge/Android-A4C639.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" height="25" alt="android logo"  />
-        <img src="https://img.shields.io/badge/iOS-999999.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" height="25" alt="ios logo"  />
-        </p>
-</td>
+ 
 <td>
  <h4 align="left">Testing</h4>
       <p align="left">
