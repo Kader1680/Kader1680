@@ -15,13 +15,17 @@
 
 - 📫 How to reach me **ouldhenniabaghdad@gmail.com**
 
- 
+
+
+
 
 
 
 ### Connect with me
 
 <p align="left">
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
+
   <a href="https://twitter.com/kader_1680" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/abdelkader-ould-hennia/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/profile/ouldhenniabaghd1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
@@ -30,42 +34,8 @@
   <a href="https://leetcode.com/u/ouldhenniabaghdad/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
----
-
-### Skills
-
-<table>
-  <tr>
-    <td>
-      <h4 align="left">Frontend</h4>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=css,sass,tailwind,figma,js,ts,react,nextjs,materialui,redux,astro,svelte" height="40" alt="Frontend Skills" />
-      </p>
-    </td>
-    <td>
-      <h4 align="left">Backend</h4>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,py,django,php,cpp" height="40" alt="Backend Skills" />
-      </p>
-    </td>
-    <td>
-      <h4 align="left">Database</h4>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" height="40" alt="Database Skills" />
-      </p>
-    </td>
-    <td>
-      <h4 align="left">Other</h4>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,netlify,vercel" height="40" alt="Other Skills" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 
-
- 
 
 <h3 align="left">Skills</h3>
 
@@ -119,6 +89,8 @@
         <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
         <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
         <br>
+        <br>
+        <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
       </p>
    </td>
      <td>
@@ -134,7 +106,7 @@
         <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
         <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
         <br>
-         
+        <br>
       </p>
    </td>
   </tr>
