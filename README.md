@@ -76,7 +76,8 @@
         <br>
         <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
         <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-   
+        <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
+        <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
       </p>
     </td>
     <td>
@@ -89,9 +90,10 @@
         <br>
         <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
         <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+        <img src="https://skillicons.dev/icons?i=php" height="40" alt="fastapi logo"  />
         <br>
         <br>
-        <img src="https://skillicons.dev/icons?i=php" height="40" alt="go logo"  />
+        <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="go logo"  />
    </p>
    </td>
    <td>
