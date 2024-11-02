@@ -101,14 +101,7 @@
       <p align="left">
         <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
         <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-        <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-        <br>
-        <br>
-        <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
-        <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-        <br>
-        <br>
-        <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+        
       </p>
    </td>
      <td>
@@ -124,9 +117,7 @@
         <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
         <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
         <br>
-        <br>
-        <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-        <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+         
       </p>
    </td>
   </tr>
@@ -139,8 +130,6 @@
  <h4 align="left">Testing</h4>
       <p align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-      <img width="12" />
-      <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
       <img width="12" />
