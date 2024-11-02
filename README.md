@@ -29,32 +29,9 @@
       <p align="left">
         <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
         <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-        <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-        <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-        <br>
-        <br>
-        <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-        <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-        <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-        <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-        <br>
-        <br>
-        <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-        <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-        <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-        <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
-      </p>
-    </td>
- 
-</tr>
-</table>
-<a href="https://twitter.com/kader_1680" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kader_1680" height="30" width="40" /></a>
+        <a href="https://twitter.com/kader_1680" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kader_1680" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdelkader-ould-hennia/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelkader-ould-hennia/" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
-
-
-
-
 <!-- CodeForce -->
 
 
@@ -81,7 +58,16 @@
 <!-- leetcode -->
 
 <a href="https://leetcode.com/u/ouldhenniabaghdad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kader1680" height="30" width="40" /></a>
-</p>
+      </p>
+    </td>
+ 
+</tr>
+    </table>
+
+
+
+
+ 
 
 <h3 align="left">Skills</h3>
 
