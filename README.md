@@ -43,6 +43,7 @@
     <td>
       <h4 align="left">Frontend</h4>
       <p align="left">
+        <img src="https://skillicons.dev/icons?i=html" height="40" alt="css3 logo"  />
         <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
         <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
         <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
@@ -57,8 +58,6 @@
         <br>
         <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
         <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-        <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-        <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
       </p>
     </td>
     <td>
@@ -87,6 +86,7 @@
      <td>
       <h4 align="left">Other</h4>
       <p align="left">
+        <img src="https://skillicons.dev/icons?i=cmd" height="40" alt="git logo"  />
         <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
         <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
          <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
