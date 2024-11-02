@@ -24,8 +24,7 @@
 ### Connect with me
 
 <p align="left">
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
-
+  <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
   <a href="https://twitter.com/kader_1680" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/abdelkader-ould-hennia/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/profile/ouldhenniabaghd1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
@@ -83,14 +82,6 @@
       <p align="left">
         <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
         <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-        <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-        <br>
-        <br>
-        <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
-        <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-        <br>
-        <br>
-        <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
       </p>
    </td>
      <td>
@@ -103,7 +94,6 @@
         <br>
         <br>
         <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-        <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
         <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
         <br>
         <br>
