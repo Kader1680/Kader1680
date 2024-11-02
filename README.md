@@ -19,37 +19,49 @@
 
 
 
- <table>
+### Connect with me
+
+<p align="left">
+  <a href="https://twitter.com/kader_1680" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abdelkader-ould-hennia/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/ouldhenniabaghd1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
+  <a href="https://dev.to/clever" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@Bloomaster1792" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/ouldhenniabaghdad/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
+
+---
+
+### Skills
+
+<table>
   <tr>
     <td>
-      <h3 align="left">Connect with me:</h3>
+      <h4 align="left">Frontend</h4>
       <p align="left">
-        <a href="https://twitter.com/kader_1680" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kader_1680" height="30" width="40" /></a>
-        <a href="https://www.linkedin.com/in/abdelkader-ould-hennia/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelkader-ould-hennia/" height="30" width="40" /></a>
-        <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
-        <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"  height="30" width="40" />
-        </a>
- 
-<a href="https://www.hackerrank.com/profile/ouldhenniabaghd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.facebook.com/baghdad.ouldhennia.9" height="30" width="40" /></a>
- 
- 
-<a href="https://dev.to/clever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="clever" height="30" width="40" /></a>
- 
-
-<!-- youtube -->
-
-<a href="https://www.youtube.com/@Bloomaster1792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bloomaster" height="30" width="40" /></a>
- 
-
-<!-- leetcode -->
-
-<a href="https://leetcode.com/u/ouldhenniabaghdad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kader1680" height="30" width="40" /></a>
+        <img src="https://skillicons.dev/icons?i=css,sass,tailwind,figma,js,ts,react,nextjs,materialui,redux,astro,svelte" height="40" alt="Frontend Skills" />
       </p>
     </td>
- 
-</tr>
-    </table>
-
+    <td>
+      <h4 align="left">Backend</h4>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,py,django,php,cpp" height="40" alt="Backend Skills" />
+      </p>
+    </td>
+    <td>
+      <h4 align="left">Database</h4>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" height="40" alt="Database Skills" />
+      </p>
+    </td>
+    <td>
+      <h4 align="left">Other</h4>
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,netlify,vercel" height="40" alt="Other Skills" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
