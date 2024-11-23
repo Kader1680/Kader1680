@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/kader_1680" target="blank"><img src="https://img.shields.io/twitter/follow/kader_1680?logo=twitter&style=for-the-badge" alt="kader_1680" /></a> </p>
 
-- 🔭 I’m currently working on **laravel Website**
+- 🔭 I’m currently working on **Chat System App**
 
-- 🌱 I’m currently learning **backend developement using laravel framework & OOP**
+- 🌱 I’m currently learning **Docker & Security Web Application**
 
 - 👨‍💻 All of my projects are available at [https://abdelkaderouldhennia.vercel.app/](https://kader1680.github.io/Potfolio-Website/)
 
