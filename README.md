@@ -10,13 +10,13 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 **Currently Building:** High-performance web applications, scalable backend systems, and microservice architectures.
-- 🌱 **Currently Learning:** Cloud Computing (AWS), DevOps workflows, Docker containerization, and advanced System Design.
-- 👨‍💻 **Portfolio:** Explore my projects at [abdelkaderouldhennia.vercel.app](https://abdelkader-ould-hennia.vercel.app/).
-- 💬 **Ask Me About:** Web Application Security, REST/GraphQL API Design, PostgreSQL, Node.js, Go, and Modern Frontend Frameworks.
-- 📫 **How to Reach Me:** [ouldhenniabaghdad@gmail.com](mailto:ouldhenniabaghdad@gmail.com)
+- **Currently Building:** High-performance web applications, scalable backend systems, and microservice architectures.
+- **Currently Learning:** Cloud Computing (AWS), DevOps workflows, Docker containerization, and advanced System Design.
+- **Portfolio:** Explore my projects at [abdelkaderouldhennia.vercel.app](https://abdelkader-ould-hennia.vercel.app/).
+- **Ask Me About:** Web Application Security, REST/GraphQL API Design, PostgreSQL, Node.js, Go, and Modern Frontend Frameworks.
+- **How to Reach Me:** [ouldhenniabaghdad@gmail.com](mailto:ouldhenniabaghdad@gmail.com)
 
 ---
 
