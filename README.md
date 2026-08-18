@@ -1,13 +1,6 @@
 <h1 align="center">I'm Abdelkader Ould Henia</h1>
 <h3 align="center">Backend Engineer & Microservices Enthusiast</h3>
 
-<p align="align-left">
-  <img src="https://komarev.com/ghpvc/?username=kader1680&label=Profile%20views&color=0e75b6&style=flat" alt="kader1680" />
-  <a href="https://twitter.com/kader_1680" target="blank">
-    <img src="https://img.shields.io/twitter/follow/kader_1680?logo=twitter&style=for-the-badge" alt="kader_1680" />
-  </a>
-</p>
-
 ---
 
 ### About Me
