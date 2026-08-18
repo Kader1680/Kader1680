@@ -1,27 +1,24 @@
-<h1 align="center">Hi 👋, I'm Abdelkader Ould Hennia</h1>
-<h3 align="center">A Passionate Full Stack Engineer</h3>
- 
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kader1680&label=Profile%20views&color=0e75b6&style=flat" alt="kader1680" /> </p>
+<h1 align="center">I'm Abdelkader Ould Henia</h1>
+<h3 align="center">Backend Engineer & Microservices Enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/kader_1680" target="blank"><img src="https://img.shields.io/twitter/follow/kader_1680?logo=twitter&style=for-the-badge" alt="kader_1680" /></a> </p>
+<p align="align-left">
+  <img src="https://komarev.com/ghpvc/?username=kader1680&label=Profile%20views&color=0e75b6&style=flat" alt="kader1680" />
+  <a href="https://twitter.com/kader_1680" target="blank">
+    <img src="https://img.shields.io/twitter/follow/kader_1680?logo=twitter&style=for-the-badge" alt="kader_1680" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **Booking System**
+---
 
-- 🌱 I’m currently learning **Cloud Computing**
- 
+### 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [my website](https://abdelkaderouldhennia.vercel.app/)
+- 🔭 **Currently Building:** High-performance web applications, scalable backend systems, and microservice architectures.
+- 🌱 **Currently Learning:** Cloud Computing (AWS), DevOps workflows, Docker containerization, and advanced System Design.
+- 👨‍💻 **Portfolio:** Explore my projects at [abdelkaderouldhennia.vercel.app](https://abdelkader-ould-hennia.vercel.app/).
+- 💬 **Ask Me About:** Web Application Security, REST/GraphQL API Design, PostgreSQL, Node.js, Go, and Modern Frontend Frameworks.
+- 📫 **How to Reach Me:** [ouldhenniabaghdad@gmail.com](mailto:ouldhenniabaghdad@gmail.com)
 
-- 💬 Ask me about **software Enginnering & Security Web Application**
-
-- 📫 How to reach me **ouldhenniabaghdad@gmail.com**
-
-
-
-
-
-
+---
 
 ### Connect with me
 
