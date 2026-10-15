@@ -11,7 +11,7 @@ What sets me apart is my engineering mindset: I don't just write functional code
 
 ### Value I Deliver & Core Capabilities
 
-- **End-to-End System Architecture:** I design scalable backend systems, microservice architectures, and robust API contracts (REST / GraphQL) from scratch, taking full ownership of the lifecycle through to containerized deployment.
+- **End-to-End System Architecture:** I design backend systems, monolitch architectures, and robust API contracts (REST / gRPC) from scratch, taking full ownership of the lifecycle through to containerized deployment.
 - **Database Design & Query Engineering:** Skilled in designing normalized relational schemas (PostgreSQL / MySQL), writing complex joins, indexing strategies, and analyzing query execution plans to eliminate latency bottlenecks.
 - **Asynchronous & Real-Time Architectures:** Experienced in building event-driven systems and real-time streaming pipelines utilizing Redis Pub/Sub, message queues, and Server-Sent Events (SSE).
 - **Performance & Load Testing:** I rigorously benchmark backend services under stress, profile memory and CPU usage, and optimize bottlenecked endpoints for peak throughput under high traffic.
