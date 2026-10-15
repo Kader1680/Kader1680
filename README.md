@@ -37,11 +37,8 @@
 
 <h4 align="left">  Backend</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,go,nodejs,express,php,laravel,typescript" alt="Backend frameworks" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=py,django,php" alt="Languages and backend frameworks" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,php,laravel,typescript,cpp" alt="Backend frameworks" />
+  
 </p>
 
 <h4 align="left"> Databases</h4>
@@ -49,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="Databases" />
 </p>
 
-<h4 align="left">   DevOps, Tools & Environment</h4>
+<h4 align="left">DevOps, Tools & Environment</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bash,githubactions,docker,aws" alt="DevOps and tools" />
   <br>
@@ -63,7 +60,7 @@
       <img width="12" />
       </p>
  
- <h4 align="left">  Frontend</h4>
+ <h4 align="left">Frontend Faculatif</h4>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,figma" alt="Frontend design and styling" />
   <br>
