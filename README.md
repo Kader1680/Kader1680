@@ -51,7 +51,7 @@
 
 <h4 align="left">   DevOps, Tools & Environment</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=terminal,git,github,githubactions,docker" alt="DevOps and tools" />
+  <img src="https://skillicons.dev/icons?i=bash,githubactions,docker,cicd" alt="DevOps and tools" />
   <br>
   <img src="https://skillicons.dev/icons?i=linux,vercel" alt="OS and hosting" />
 </p>
