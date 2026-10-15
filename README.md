@@ -3,13 +3,19 @@
 
 ---
 
-### About Me
+## About Me
 
-- **Currently Building:** High-performance web applications, scalable backend systems, and microservice architectures.
-- **Currently Learning:** Cloud Computing (AWS), DevOps workflows, Docker containerization, and advanced System Design.
-- **Portfolio:** Explore my projects at [abdelkaderouldhennia.vercel.app](https://abdelkader-ould-hennia.vercel.app/).
-- **Ask Me About:** Web Application Security, REST/GraphQL API Design, PostgreSQL, Node.js, Go, and Modern Frontend Frameworks.
-- **How to Reach Me:** [ouldhenniabaghdad@gmail.com](mailto:ouldhenniabaghdad@gmail.com)
+I am a **Backend Engineer** who thrives on technical autonomy, system design, and performance engineering. Over the past two years, I have focused heavily on the mechanics of backend infrastructure—from architectural design and database modeling to execution and cloud deployment. 
+
+What sets me apart is my engineering mindset: I don't just write functional code—I benchmark it under load, analyze execution plans, and build fault-tolerant systems designed for high traffic and reliability.
+
+### Value I Deliver & Core Capabilities
+
+- **End-to-End System Architecture:** I design scalable backend systems, microservice architectures, and robust API contracts (REST / GraphQL) from scratch, taking full ownership of the lifecycle through to containerized deployment.
+- **Database Design & Query Engineering:** Skilled in designing normalized relational schemas (PostgreSQL / MySQL), writing complex joins, indexing strategies, and analyzing query execution plans to eliminate latency bottlenecks.
+- **Asynchronous & Real-Time Architectures:** Experienced in building event-driven systems and real-time streaming pipelines utilizing Redis Pub/Sub, message queues, and Server-Sent Events (SSE).
+- **Performance & Load Testing:** I rigorously benchmark backend services under stress, profile memory and CPU usage, and optimize bottlenecked endpoints for peak throughput under high traffic.
+- **Execution & Technical Autonomy:** I work remotely and independently, operating with high autonomy. I value clear, written technical specifications, documented architectural decisions, and clean, maintainable code.
 
 ---
 
@@ -32,7 +38,7 @@
 
  
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 
 <h4 align="left">  Backend</h4>
