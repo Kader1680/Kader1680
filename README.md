@@ -37,7 +37,7 @@
 
 <h4 align="left">  Backend</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=golang,gin,nodejs,express,php,laravel,typescript" alt="Backend frameworks" />
+  <img src="https://skillicons.dev/icons?i=go,go,nodejs,express,php,laravel,typescript" alt="Backend frameworks" />
   <br>
   <img src="https://skillicons.dev/icons?i=py,django,php" alt="Languages and backend frameworks" />
   <br>
@@ -51,7 +51,7 @@
 
 <h4 align="left">   DevOps, Tools & Environment</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,githubactions,docker,cicd" alt="DevOps and tools" />
+  <img src="https://skillicons.dev/icons?i=bash,githubactions,docker,aws" alt="DevOps and tools" />
   <br>
   <img src="https://skillicons.dev/icons?i=linux,vercel" alt="OS and hosting" />
 </p>
